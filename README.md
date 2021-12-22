@@ -1,7 +1,7 @@
 # foodnotfood
 A deep learning based web app to classify food and non food images
 
-Live at - https://foodnotfood.herokuapp.com/
+Live at - https://foodnotfood.herokuapp.com/ <br/>
 Front-end code - https://github.com/vedantthapa/foodnotfood-UI
 
 ## Dataset
